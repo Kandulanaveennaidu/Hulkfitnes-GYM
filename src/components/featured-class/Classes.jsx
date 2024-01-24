@@ -15,7 +15,9 @@ function Classes() {
         ></div>
         <div className="absolute bottom-0 z-10 mb-5 ml-5 cursor-text space-y-2 text-white">
           <h4 className="text-3xl font-bold">Cycling</h4>
-          <p className="bg-red px-3 py-0.5">Wednesday: 9:00am-10:00am</p>
+          <p className="bg-red px-3 py-0.5">
+            Monday – Saturday: 5:00AM - 10:00AM
+          </p>
         </div>
       </div>
 
@@ -29,7 +31,7 @@ function Classes() {
         <div className="absolute bottom-0 z-10 mb-5 ml-5 cursor-text space-y-2 text-white">
           <h4 className="text-3xl font-bold">Karate</h4>
           <p className="whitespace-nowrap bg-red px-3 py-0.5">
-            Friday: 10:00am-11:00am
+            Monday – Saturday: 5:00PM
           </p>
         </div>
       </div>
@@ -44,7 +46,7 @@ function Classes() {
         <div className="absolute bottom-0 z-10 mb-5 ml-5 cursor-text space-y-2 text-white">
           <h4 className="text-3xl font-bold">Power</h4>
           <p className="whitespace-nowrap bg-red px-3 py-0.5">
-            Saturday: 9:00am-10:00am
+            Saturday: 5:00am-10:00am
           </p>
         </div>
       </div>
@@ -59,7 +61,7 @@ function Classes() {
         <div className="absolute bottom-0 z-10 mb-5 ml-5 cursor-text space-y-2 text-white">
           <h4 className="text-3xl font-bold">Meditation</h4>
           <p className="whitespace-nowrap bg-red px-3 py-0.5">
-            Friday: 1:00pm-2:00pm
+            Friday: 5:00PM - 10:00PM
           </p>
         </div>
       </div>

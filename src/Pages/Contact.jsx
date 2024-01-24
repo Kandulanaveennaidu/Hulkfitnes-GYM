@@ -6,10 +6,8 @@ function Contact() {
   return (
     <main>
       <HeroPages page="Contact" />
-
       <ContactForm />
-
-      <Map />
+      <Map />c
     </main>
   );
 }
