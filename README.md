@@ -1,22 +1,27 @@
-# Gymate
+# Hulkfitnes Gym Website
 
-If you’re looking for a website for your gym, Gymate is a great option. It has a clean and modern look, and comes with useful features like a built-in timetable and a BMI calculator. Gymate is also responsive to all devices, so users can view the site on any screen size.
+Welcome to the Hulkfitnes Gym Website project! This website was built to showcase the services and information related to Hulkfitnes Gym.
 
-Credits for the design go to: <a href='https://www.radiustheme.com/'>RadiusTheme</a>
+## Table of Contents
 
-## Tech Stack
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-Vite<br/>
-React<br/>
-JavaScript<br/>
-TailwindCSS<br/>
+## Features
 
-## Demo
+- List some key features of your website. For example:
+  - Responsive design for various devices.
+  - Information about gym services, classes, and trainers.
+  - Contact form for inquiries.
+  - ...
 
-<a href='https://gymate-mersad.netlify.app/'>gymate-mersad.netlify.app</a>
+## Installation
 
-## Screenshot
+1. Clone the repository:
 
-<div align='center'>
-<img src='https://github.com/mersad98/gymate/assets/141646504/0f7e37b0-58ca-4065-9dcd-6b00b19b0104'
-</div>
+   ```bash
+   https://github.com/Kandulanaveennaidu/Hulkfitnes-GYM
