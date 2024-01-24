@@ -7,9 +7,9 @@ function Title() {
       <SecondaryHeading>Who we are</SecondaryHeading>
       <TertiaryHeading>We will give you strength and health</TertiaryHeading>
       <p className="font-medium text-gray-300">
-        hulkfitnes an unknown printer took a galley type and scraey aretea bled
+        Hulkfitnes an unknown printer took a galley type and scraey aretea bled
         make a type specimen book. May has survived not onlyive centuries but
-        also the leap electronic.hulkfitnes unknown printer took a galley of
+        also the leap electronic.Hulkfitnes unknown printer took a galley of
         type and scraey aretea.
       </p>
     </div>

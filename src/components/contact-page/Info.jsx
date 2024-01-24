@@ -37,13 +37,13 @@ function Info() {
             href="tel:+98-21-225-429-71"
             className="block font-medium text-gray-300"
           >
-            +91 94942 47438
+            +91 9666528686
           </a>
           <a
             href="mailto:example@gymate.com"
             className="block font-medium text-gray-300"
           >
-            Gmail.hulkfitnesss@gmail.com
+            rshulkfitness@gmail.com
           </a>
         </div>
         <div>

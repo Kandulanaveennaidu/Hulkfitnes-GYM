@@ -87,13 +87,13 @@ function Sidebar({ isSidebarOpen, handleToggleSidebar }) {
             to="tel:+982122542971"
             className="focus flex items-center gap-2 font-medium text-gray-400 transition-colors duration-300 hover:text-red"
           >
-            <FaPhone className="text-red" /> (+91) 94942 47438
+            <FaPhone className="text-red" /> (+91) 9666528686
           </Link>
           <Link
             to="Gmail.hulkfitnesss@gmail.com"
             className="focus flex items-center gap-2 font-medium text-gray-400 transition-colors duration-300 hover:text-red"
           >
-            <FaEnvelope className="text-red" /> Gmail.hulkfitnesss@gmail.com
+            <FaEnvelope className="text-red" /> rshulkfitness@gmail.com
           </Link>
         </div>
       </section>

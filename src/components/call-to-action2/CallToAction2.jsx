@@ -8,7 +8,7 @@ function CallToAction2() {
           Need a Fitness Trainer?
         </h4>
         <p className="text-2xl font-bold text-white">
-          <span className="text-red">Call:</span> (+91) 94942 47438
+          <span className="text-red">Call:</span> (+91) 9666528686
         </p>
         <TertiaryButton>Purchase now</TertiaryButton>
       </div>

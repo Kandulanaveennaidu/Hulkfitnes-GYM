@@ -13,9 +13,7 @@ function Testimonials() {
             Some reviews from our trusted clients
           </TertiaryHeading>
         </div>
-
         <Slider />
-
         <Customers />
       </div>
     </section>

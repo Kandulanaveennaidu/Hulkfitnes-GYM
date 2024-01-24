@@ -12,12 +12,9 @@ function WhoWeAre() {
         <div className="relative z-[1] grid items-center gap-5 text-center 2xl:grid-cols-[1fr,1fr] 2xl:text-left">
           <div>
             <Title />
-
             <Facilities />
-
             <SecondaryButton to="/classes">Take a tour</SecondaryButton>
           </div>
-
           <RunningGirl />
         </div>
       </div>
